@@ -1,0 +1,19 @@
+1.En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+*Variables: En las variables, se pueden almacenar cualquier tipo de datos para poder ser usados durante el código que se esté trabajando. Pueden ser datos númericos,
+palabras, frases, operaciones matematicas, secuencias lógicas, etc.
+
+*Strings: Los datos de tipo strings son de tipo textual. Frases, nombres, palabras, avisos que quiera usar el progrmador para mostrar o pedir información.
+
+*Funciones (argumentos, return): Los argumentos hacen referencia a cada uno de los datos que son declarados en la función y que serán necesarios para poder ejecutar
+de manera correcta el código que se esté programando. RETURN se utiliza cuando solo queremos que el código nos arroje un dato, operacion o información en especifico
+sin tener en cuenta el resto del codigo.
+
+*Declaraciones if: Las declaraciones if hacen referencia a situaciones donde se deben realizar una o más comparaciones entre los datos que tengamos para alcanzar un
+objetivo. Por ejemplo, un programa que te pida tu edad y automaticamente te diga si eres o no apto para comprar bebidas alcoholicas. El condicional sería comparar 
+tu edad con la edad mínima para poder comprar las bebidas alcoholicas, que en el caso de mi país, serían 18 años. Si cumples con la edad, puedes comprar, si no es así,
+no puedes hacerlo.
+
+*Valores booleanos (true, false): Van muy ligados con el tema anterior, ya que son datos primitivos que depende de la estructura del código, solo te va a generar los
+valores de TRUE (Verdadero) o FALSE (Falso) según las condiciones que se coloquen.
